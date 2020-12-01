@@ -15,9 +15,6 @@ While you create Nat gateway which subnet do you use ? what are all the paramete
 How does the load balancer works ?
 How do you handle the point in spike ?
 
-
-
-
 1.How do you increase RAM for a EC2 instance?
 
 2. How do you maintain DR in a cloud?
